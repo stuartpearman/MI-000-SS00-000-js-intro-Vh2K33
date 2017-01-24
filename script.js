@@ -1,9 +1,9 @@
 // sounds
 
-var blip = new Audio('/sounds/blip.wav')
-var coin = new Audio('/sounds/coin.wav')
-var zap = new Audio('/sounds/zap.wav')
-var hurt = new Audio('/sounds/hurt.wav')
+var blip = new Audio('sounds/blip.wav')
+var coin = new Audio('sounds/coin.wav')
+var zap = new Audio('sounds/zap.wav')
+var hurt = new Audio('sounds/hurt.wav')
 
 // buttons
 
